@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Dataset>
+    <Patient id="jd000001">
+        <first_name>John</first_name>
+        <last_name>Doe</last_name>
+        <age>28</age>
+        <phone>4058698576</phone>
+        <address>oklahoma</address>
+        <email>kjsdnkc@gmail.com</email>
+        <clump_thickness>5</clump_thickness>
+        <uniformity_cell_size>1</uniformity_cell_size>
+        <uniformity_cell_shape>1</uniformity_cell_shape>
+        <marginal_adhesion>1</marginal_adhesion>
+        <single_epithelial_cell_size>2</single_epithelial_cell_size>
+        <bare_nuclei>1</bare_nuclei>
+        <bland_chromatin>2</bland_chromatin>
+        <normal_nucleoli>2</normal_nucleoli>
+        <mitoses>1</mitoses>
+        <class>4</class>
+    </Patient>
+    <Patient id="iv000002">
+        <first_name>Isaac</first_name>
+        <last_name>Vu</last_name>
+        <age>23</age>
+        <phone>fvdf</phone>
+        <address>b fgb</address>
+        <email/>
+        <clump_thickness>5</clump_thickness>
+        <uniformity_cell_size>5</uniformity_cell_size>
+        <uniformity_cell_shape>0</uniformity_cell_shape>
+        <marginal_adhesion>4</marginal_adhesion>
+        <single_epithelial_cell_size>0</single_epithelial_cell_size>
+        <bare_nuclei>0</bare_nuclei>
+        <bland_chromatin>4</bland_chromatin>
+        <normal_nucleoli>0</normal_nucleoli>
+        <mitoses>5</mitoses>
+        <class>0</class>
+    </Patient>
+    <Patient id="bg000003">
+        <first_name>Blue</first_name>
+        <last_name>Green</last_name>
+        <age>34</age>
+        <phone>4758473723</phone>
+        <address>dfvbdfv</address>
+        <email>fvfdvdf@gmail.com</email>
+        <clump_thickness>1</clump_thickness>
+        <uniformity_cell_size>2</uniformity_cell_size>
+        <uniformity_cell_shape>3</uniformity_cell_shape>
+        <marginal_adhesion>4</marginal_adhesion>
+        <single_epithelial_cell_size>5</single_epithelial_cell_size>
+        <bare_nuclei>6</bare_nuclei>
+        <bland_chromatin>7</bland_chromatin>
+        <normal_nucleoli>8</normal_nucleoli>
+        <mitoses>9</mitoses>
+        <class>2</class>
+    </Patient>
+</Dataset>
